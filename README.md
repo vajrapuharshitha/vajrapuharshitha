@@ -76,3 +76,4 @@ Final-year B.Tech Biotechnology student at GITAM, working where **bioinformatics
 ## 🤝 Let's connect
 
 If you work on computational biology, biomedical ML or molecular diagnostics and need a motivated research assistant, I'd love to hear from you: [vajrapuharshitha@gmail.com](mailto:vajrapuharshitha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vajrapu)
+9346048629
