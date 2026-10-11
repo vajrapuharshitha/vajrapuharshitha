@@ -34,4 +34,45 @@ Final-year B.Tech Biotechnology student at GITAM, working where **bioinformatics
 
 ## 🧪 What I bring to a research team
 
--
+- **End-to-end thinking:** from literature curation, to a feature panel, to a validated model and an interface people can use.
+- **Computational and wet-lab range:** BLASTp, Clustal Omega, MEGA, AutoDock Vina and scikit-learn, alongside ELISA, PCR, flow cytometry and clotting-index assays.
+- **Honest validation:** held-out testing, leakage checks and clearly stated limitations.
+- **Clinical context:** model thresholds reviewed with neurologists at GIMSR Hospitals; hemostatic biomaterial work at CSIR-CGCRI.
+
+<details>
+<summary><b>🔬 Research experience (click to open)</b></summary>
+
+**Research Intern, Wound Healing · CSIR-CGCRI, Kolkata** (mentor: Dr. Jui Chakraborty)
+- Tested clotting performance of a bioactive glass-chitosan-kaolin hemostatic sponge using blood clotting index assays, replicating published protocols.
+- Reviewed hemorrhage physiology, hemostasis mechanisms and biomaterial classes, and compiled an internal report.
+</details>
+
+<details>
+<summary><b>🏆 Recognition (click to open)</b></summary>
+
+- Best Poster Award, AMTZ (2026)
+- Abstract selected for poster presentation, IIT Kharagpur
+- National finalist, WHIF MedTech Hackathon 2026, with incubation support at AMTZ
+- Research and Presentation Lead, Global Agri-Innovation Summit 2026
+</details>
+
+<details>
+<summary><b>🛠️ Tools and skills (click to open)</b></summary>
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![BLASTp](https://img.shields.io/badge/BLASTp-2E7D32)
+![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-6A1B9A)
+![GROMACS](https://img.shields.io/badge/GROMACS-00695C)
+![Primer3](https://img.shields.io/badge/Primer3-37474F)
+
+**Assays:** ELISA · flow cytometry · Western blot · PCR · BCI assay · FTIR · SEM · XRD
+</details>
+
+## 🤝 Let's connect
+
+If you work on computational biology, biomedical ML or molecular diagnostics and need a motivated research assistant, I'd love to hear from you: [vajrapuharshitha@gmail.com](mailto:vajrapuharshitha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vajrapu)
