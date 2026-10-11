@@ -3,14 +3,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vajrapu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vajrapu-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://vajrapuharshitha.github.io/biomarker-risk-pipeline/"><img alt="Live 3D demo" src="https://img.shields.io/badge/Live%203D%20demo-biomarker%20pipeline-14B8A6"></a>
+<a href="https://vajrapuharshitha.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-1F6FEB"></a>
 </p>
+**Currently seeking:** research assistant and research internship roles in computational biology and biomedical machine learning (remote or onsite).
+
 
 ## About
 
 Final-year B.Tech Biotechnology student at GITAM, Visakhapatnam, working at the meeting point of **bioinformatics, clinical machine learning and molecular diagnostics**. Research intern at CSIR-CGCRI on hemostatic biomaterials. I build tools that take a biological question from raw data to something you can explore and test.
 
 ## Featured work
-
+| [**pmos-companion**](https://github.com/vajrapuharshitha/pmos-companion) | Explainable PMOS (formerly PCOS) screening aid: criteria checker, leakage-aware ML and lifestyle guide. Screening only, not diagnosis. [Live demo](https://vajrapuharshitha.github.io/pmos-companion/) | Python, Streamlit, JavaScript |
 | Project | What it does | Stack |
 |---|---|---|
 | [**biomarker-risk-pipeline**](https://github.com/vajrapuharshitha/biomarker-risk-pipeline) | ML pipeline that ranks biomarkers and classifies tumour risk on the Wisconsin breast cancer data, with an interactive 3D explorer. [Live demo](https://vajrapuharshitha.github.io/biomarker-risk-pipeline/) | Python, scikit-learn, JavaScript |
