@@ -1,4 +1,6 @@
-<p align="center"><img src="banner.svg" alt="Vajrapu Harshitha: computational biology, clinical ML, molecular diagnostics" width="100%"></p>
+<p align="center"><a href="https://vajrapuharshitha.github.io"><img src="banner.svg" alt="Vajrapu Harshitha: computational biology, clinical ML, molecular diagnostics" width="100%"></a></p>
+
+<p align="center"><a href="https://vajrapuharshitha.github.io"><img src="portfolio-cta.svg" alt="Visit my live portfolio" width="90%"></a></p> alt="Vajrapu Harshitha: computational biology, clinical ML, molecular diagnostics" width="100%"></p>
 
 <p align="center">
   <a href="https://vajrapuharshitha.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-1F6FEB"></a>
